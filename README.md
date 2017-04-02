@@ -52,7 +52,7 @@ Comming soon
 ```
 
 ## TODO 
-Add saupport for 
+Add support for 
  * Vue.js
  * React.js
  * Marko.js

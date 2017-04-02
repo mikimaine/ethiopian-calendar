@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>Bootstrap Amharic Calendars</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" media="all" rel="stylesheet" />
+<link href="../datetime/bootstrap-datetimepicker.min.css" media="all" rel="stylesheet" />
+</head>
+<body>
+<div class="row">
+	<div class="col-md-3 col-md-offset-1">
+		<h3>Ethiopian Calendar</h3>
+		<div class='input-group date' id='datetimepicker'>
+		    <input type='text' class="form-control" />
+		    <span class="input-group-addon">
+		        <span class="glyphicon glyphicon-calendar"></span>
+		    </span>
+		</div>
+	</div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="../calander/jquery.calendars.min.js"></script>
+<script src="jquery.calendars.ethiopian.min.js"></script>
+<script src="jquery.calendars.ethiopian-am.js"></script>
+<script src="../calander/bootstrap-calendars.min.js"></script>
+<script src="../datetime/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript">
+$(function () {
+	// Ethiopia Calander Calendar
+	$('#datetimepicker').datetimepicker({
+	    locale: {
+			     	calender: 'ethiopian',
+					lang: 'am'
+				}
+	});
+});
+</script>
+</body>
+</html>

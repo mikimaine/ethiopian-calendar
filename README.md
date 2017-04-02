@@ -1,8 +1,8 @@
-# Ethiopian Bootstrap / Jquery Calander
+# Ethiopian Bootstrap / Jquery Calendar
 
-Ethiopian local calander for Jquery and bootstrap.
+Ethiopian local calendar for Jquery and bootstrap.
 
-![Alt text](img/ethiopia-calander.png?raw=true "Demo Ethipian Calander")
+![Alt text](img/ethiopia-calendar.png?raw=true "Demo Ethiopian calendar")
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -21,25 +21,25 @@ You need to have Bootstrap and Jquery before installing is
 Download this repo or run 
 
 ```
-git clone https://github.com/mikimaine/ethiopian-calander.git
+git clone https://github.com/mikimaine/ethiopian-calendar.git
 ```
 For example look in to the demo
 
 ## Running the tests
 
-comming soon
+Coming soon
 
 ### Break down into end to end tests
 
-comming soon
+Coming soon
 
 ### And coding style tests
 
-comming soon
+Coming soon
 
 ## Deployment
 
-comming soon 
+Coming soon 
 ## Built With
 
 * [Bootstrap](http://getbootstrap.com/) - The web framework used
@@ -48,7 +48,7 @@ comming soon
 ## Contributing
 
 ```
-Comming soon
+Coming soon
 ```
 
 ## TODO 

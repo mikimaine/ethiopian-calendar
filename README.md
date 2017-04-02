@@ -61,7 +61,7 @@ Add support for
 
 ## Authors
 
-* ** Miki Maine Amdu** - *Initial work* - [PurpleBooth](https://github.com/mikimaine)
+* ** Miki Maine Amdu** - *Initial work* - [MikiMaine](https://github.com/mikimaine)
 
 
 ## License
@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Keith Wood [PurpleBooth](https://github.com/kbwood)
+* Keith Wood [kbwood](https://github.com/kbwood)

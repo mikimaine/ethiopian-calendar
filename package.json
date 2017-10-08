@@ -1,0 +1,37 @@
+{
+  "name": "@mikimaine/ethiopian-calander",
+  "version": "0.0.2",
+  "description": "Jquery/Bootstrap Ethiopian calander ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikimaine/ethiopian-calendar.git"
+  },
+  "keywords": [
+    "Ethiopian",
+    "calander",
+    "npm",
+    "ethiopian",
+    "calander",
+    "jquery",
+    "ethiopian",
+    "calander",
+    "picker"
+  ],
+  "author": "Mikiyas Amdu <mikias.amdu@gmail.com> (https://www.github.com/mikimaine)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikimaine/ethiopian-calendar/issues"
+  },
+  "homepage": "https://github.com/mikimaine/ethiopian-calendar#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}

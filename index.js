@@ -4,11 +4,11 @@
 'use strict';
 
 /**
- * Adds commas to a number
- * @param {number} number
- * @param {string} locale
- * @return {string}
+ *
+ * @param {object} options
+ * @return {object}
  */
-module.exports = function(number, locale) {
-    return number.toLocaleString(locale);
+module.exports = function(options) {
+    //@TODO port the plane library into npm package
+    return options
 };

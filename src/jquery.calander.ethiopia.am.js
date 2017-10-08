@@ -1,5 +1,5 @@
 /**
- * Amharic translation of the Ethiopucalander
+ * Amharic translation of the Ethiopian calender
  */
 (function($) {
     'use strict';

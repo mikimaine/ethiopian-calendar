@@ -1,73 +1,46 @@
-# Ethiopian Bootstrap / Jquery Calendar
+# Ethiopian Calendar
 
-Ethiopian local calendar for Jquery and bootstrap.
+Bootstrap Ethiopian Calendar — allows you to have a bootstrap Ethiopian calendar.
 
 ![Alt text](img/ethiopia-calendar.png?raw=true "Demo Ethiopian calendar")
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Description
 
-You need to have Bootstrap and Jquery before installing is
+The Ethiopian Calendar project provides a jQuery and Bootstrap-based implementation of the Ethiopian calendar, suitable for integration into web applications.
 
-```
-* [Bootstrap](http://getbootstrap.com/) -Bootstrap >= 3.0.0
-* [Jquery](https://jquery.com/) - Jquery > 1.11.0
-```
+## Dependencies
 
-### Installing
+- **Bootstrap**: Version >= 3.0.0
+- **jQuery**: Version > 1.11.0
 
-Download this repo or run 
+## Setup Instructions
 
-```
-git clone https://github.com/mikimaine/ethiopian-calendar.git
-```
-For example look in to the demo
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/mikimaine/ethiopian-calendar.git
+    ```
+2. **Include Dependencies**: Ensure Bootstrap and jQuery are included in your project.
 
-## Running the tests
+3. **Run the Demo**: Explore the demo included in the repository for a quick start.
 
-Coming soon
+## Usage
 
-### Break down into end to end tests
+Integrate the calendar into your web application by following the examples provided in the `jquery-demo` folder.
 
-Coming soon
+## Features
 
-### And coding style tests
+- Displays the Ethiopian calendar
+- Easy integration with Bootstrap and jQuery
 
-Coming soon
+## Roadmap
 
-## Deployment
-
-Coming soon 
-## Built With
-
-* [Bootstrap](http://getbootstrap.com/) - The web framework used
-* [Jquery](https://jquery.com/) - Javascript framework
-
-## Contributing
-
-```
-Coming soon
-```
-
-## TODO 
-Add support for 
- * Vue.js
- * React.js
- * Marko.js
- * Material
- * Foundation4
-
-## Authors
-
-* ** Miki Maine Amdu** - *Initial work* - [MikiMaine](https://github.com/mikimaine)
-
+- Add support for Vue.js, React.js, Marko.js, Material, and Foundation4.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
 
-## Acknowledgments
+## Contact
 
-* Keith Wood [kbwood](https://github.com/kbwood)
+For any queries, please [create an issue](https://github.com/mikimaine/ethiopian-calendar/issues).
